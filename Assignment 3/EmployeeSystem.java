@@ -26,7 +26,7 @@ class Employee {
     }
 
     public void displayInfo() {
-        System.out.println("ID: " + id + " | Name: " + name + " | Salary: " + calculateSalary());
+        System.out.println("ID: " + id + " Name: " + name + "  Salary: " + calculateSalary());
     }
 }
 

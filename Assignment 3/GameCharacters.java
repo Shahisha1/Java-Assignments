@@ -24,7 +24,7 @@ class Warrior extends GameCharacter {
 
     @Override
     public void attack() {
-        System.out.println(getName() + " [Warrior] swings their sword for " + Damage + "  mele damage!");
+        System.out.println(getName() + "[Warrior] swings their sword for " + Damage + "  mele damage!");
     }
 }
 

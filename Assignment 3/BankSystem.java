@@ -23,7 +23,7 @@ class BankAccount {
     public void deposit(double amount) {
         if (amount > 0) {
             balance += amount;
-            System.out.println("Deposited: " + amount + " | New Balance: " + balance);
+            System.out.println("Deposited:  " + amount + " | New Balance: " + balance);
         } else {
             System.out.println("Invalid deposit amount.");
         }

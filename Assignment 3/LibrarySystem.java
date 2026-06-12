@@ -83,7 +83,7 @@ class Newspaper extends LibraryItem {
 public class LibrarySystem {
     public static void main(String[] args) {
         LibraryItem[] catalog = {
-            new Book("Interview With the Vampire", "Anne Rice", 1, 180),
+            new Book("Interview With the Vampire ", "Anne Rice", 1, 180),
             new Magazine("Vogue", "Anna Wintour", 2, "per yeaar 8", 342),
             new Newspaper("The Daily Bugle", "J. Jonah Jameson", 3, "2025-06-09", "New York")
         };

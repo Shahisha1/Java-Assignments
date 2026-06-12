@@ -22,7 +22,7 @@ class Patient {
     }
 
     public void getTreatmentPlan() {
-        System.out.println("Patient: " + name + " | Age: " + age);
+        System.out.println("Patient: " + name + " Age: " + age);
         System.out.println("Treatment Plan: General checkup and observation.");
     }
 }

@@ -66,7 +66,7 @@ public class SmartHomeSystem {
             new SecurityCamera("Backyard Camera", "Garden Area")
         };
 
-        System.out.println("Smart Home Automation ");
+        System.out.println("Smart Home Automation  ");
         System.out.println("Activating all devices...");
         System.out.println();
 

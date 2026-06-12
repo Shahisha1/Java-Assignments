@@ -21,7 +21,7 @@ class Course {
 
     public void getCourseInfo() {
         System.out.println("Course: " + title);
-        System.out.println("Instructor: " + instructor);
+        System.out.println("Instructor : " + instructor);
         System.out.println("Duration: " + duration + " hours");
     }
 }
