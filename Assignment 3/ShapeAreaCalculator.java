@@ -57,7 +57,7 @@ public class ShapeAreaCalculator {
         double totalArea = 0;
 
         for (Shape shape : shapes) {
-            double area = shape.calculateArea();
+            double area  = shape.calculateArea();
             System.out.println(shape.getClass().getSimpleName() + "area: " + String.format("%.2f", area));
             totalArea += area;
         }

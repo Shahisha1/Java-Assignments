@@ -89,7 +89,7 @@ public class LibrarySystem {
         };
 
         System.out.println("Library Catalog");
-        for (LibraryItem item : catalog) {
+        for (LibraryItem item : catalog)  {
             item.getInfo();
         }
     }
