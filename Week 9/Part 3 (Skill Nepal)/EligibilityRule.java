@@ -1,3 +1,5 @@
+package Week9.Part3.SkillNepal;
+
 @FunctionalInterface
 public interface EligibilityRule{
     boolean isEligible(String studentId, String courseId) throws EnrollmentDeniedException;

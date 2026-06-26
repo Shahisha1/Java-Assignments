@@ -1,3 +1,4 @@
+package Week9.Part1.SmartDashain;
 public abstract class FestivalActivity {
     public String activityName;
     public double estimatedCost;

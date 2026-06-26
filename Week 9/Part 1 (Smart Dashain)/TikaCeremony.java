@@ -1,4 +1,4 @@
-
+package Week9.Part1.SmartDashain;
 
 public class TikaCeremony extends FestivalActivity{
     int expectedGuests;

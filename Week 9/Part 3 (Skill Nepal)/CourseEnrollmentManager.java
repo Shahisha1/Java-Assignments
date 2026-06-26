@@ -1,3 +1,6 @@
+package Week9.Part3.SkillNepal;
+
+
 public class CourseEnrollmentManager {
     public static void enrollStudent(String studentId, String courseId, EligibilityRule rule) {
         System.out.println("Attempting to enroll " + studentId + " in " + courseId + "...");

@@ -1,3 +1,6 @@
+package Week9.Part3.SkillNepal;
+
+
 public class StudentDashboard {
     public void displayCourseStatus(String studentId, String courseId, EligibilityRule rule) {
         System.out.println("Checking enrollment status for " + studentId + " in " + courseId + "...");
